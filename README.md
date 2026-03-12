@@ -32,6 +32,7 @@ https://www.kaggle.com/datasets/yasserh/walmart-dataset
 ## Model Performance
 
 Linear Regression R² Score: 0.15
+
 Random Forest R² Score: 0.95
 
 ## Steps Performed
